@@ -1,5 +1,7 @@
 # PTF Hackathon Project
  
+![BANNER](https://user-images.githubusercontent.com/66480577/197377962-c1820e2d-87eb-43e6-84f8-a75e905aa6ce.jpg)
+
 ## Inspiration
 The primary way to obtain NFTs on our website is to acquire them in marketplaces that accept cryptocurrencies such as ETHEREUM, BITSKI, and FORTMATIC. There is currently no mechanism to exchange NFTs with complete trust.
 
