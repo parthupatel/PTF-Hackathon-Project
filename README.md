@@ -56,8 +56,6 @@ Integration with Plug and Wallet.
 We built this website in the three most common Communication languages: English, Hindi, and French.
 
 ## Credits
-Photos :
-All images are just used for preview purposes only and are NOT included in the final purchase files.
 
 Fonts & Icons :
 Font-Awesome
